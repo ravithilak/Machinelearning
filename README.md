@@ -9,4 +9,4 @@ In this repository, machine learning algorithms like
 * Support Vector Machine (SVM)
 * Random Forest
 * Naive Bayes 
-Python Coding in Juyter note book we are discussing 
+Python Coding in Jupyter note book we are discussing 
